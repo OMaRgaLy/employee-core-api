@@ -4,11 +4,11 @@
 Проект employee-core-api - сервис для управления сотрудниками (добавить, обновить, удалить, получить). 
 Перейти на официальный сайт https://start.spring.io/ для генерации проекта 
 Заполнить поля и добавить зависимости:
-Spring Web
-Validation
-Lombok (optional) 
-Скачать сгенерированный проект
-Открыть проект с помощью IDE IntelliJ Idea 
+Spring Web,
+Validation,
+Lombok (optional). 
+Скачать сгенерированный проект.
+Открыть проект с помощью IDE IntelliJ Idea. 
 
 - Реализовать логику веб-сервиса для проекта employee-core-api 
 - Контроллер employeeController 
